@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24744945802",
+    "firebase_url": "https://presentacionkotlintendencias.firebaseio.com",
+    "project_id": "presentacionkotlintendencias",
+    "storage_bucket": "presentacionkotlintendencias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24744945802:android:d7a07a0f92e26b7118e573",
+        "android_client_info": {
+          "package_name": "com.kotlin.presentacion_kotlin_tendencias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24744945802-rebnb04vf1p4gekfqc1ufv4pkg7okgbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlin.presentacion_kotlin_tendencias",
+            "certificate_hash": "3eb1b5ddd3162b31586890ef4bb97ee283987297"
+          }
+        },
+        {
+          "client_id": "24744945802-sp9t923t112pcjgkq2fpov4e2m0aqnk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVeW089B3k-njZIz0ULm4dHS-zR0k0LNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24744945802-sp9t923t112pcjgkq2fpov4e2m0aqnk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

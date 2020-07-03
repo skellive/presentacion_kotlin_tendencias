@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">presentacion_kotlin_tendencias</string>
+    <string name="id_usuario">User</string>
+    <string name="id_pass">password</string>
+
 </resources>
